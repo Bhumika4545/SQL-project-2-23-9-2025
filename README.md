@@ -1,0 +1,1 @@
+This project demonstrates a Ecommerce database in MySQL, complete with data insertion, constraints, and practical SQL queries for learning. It covers essential SQL concepts such as NULL handling, default constraints, transactions, and referential integrity (ON DELETE CASCADE).
